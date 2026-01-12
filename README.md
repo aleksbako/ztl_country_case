@@ -1,6 +1,6 @@
 # ZTL Country Case Project
 
-This is a small demo project to access the public api, and to secure my own endpoints.
+This is a demo Spring Boot application that consumes a public API and exposes REST endpoints.
 
 ## Table of Contents
 - [Requirements](#requirements)
