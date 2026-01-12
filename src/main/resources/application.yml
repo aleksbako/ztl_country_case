@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: @project.name@
+    version: @project.version@
+
+server:
+  port: 19000
+
+hostResolver:
+  hosts:
+    restCountries:
+      hostName: "restCountries"
+      hostUrl: "https://restcountries.com"
