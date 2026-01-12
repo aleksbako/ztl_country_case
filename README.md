@@ -33,8 +33,7 @@ mvn spring-boot:run
 ## How to use:
 1. Start the application as indicated in the previous step.
 2. Open either Swagger or Postman for accessing Endpoints.
-3. Authenticate by providing a api-key in the header. The key can be found in /src/main/java/resources/application.properties file under the name api.key.
-4. Use the endpoints and send the api-key in the authentication header.
+3. Use the endpoints.
 
 
 ## Swagger:
