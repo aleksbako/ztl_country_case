@@ -1,6 +1,6 @@
 # ZTL Country Case Project
 
-This is a demo Spring Boot application that consumes a public API and exposes REST endpoints.
+This is a demo Spring Boot application that consumes a public API and exposes REST endpoints for country and currency data..
 
 ## Table of Contents
 - [Requirements](#requirements)
